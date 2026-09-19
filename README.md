@@ -32,7 +32,7 @@ This project simulates a real analytics workflow: extracting messy transactional
 
 ## 📸 Dashboard
 
-![Dashboard](![Uploading image.png…])
+<img width="1265" height="797" alt="Screenshot 2026-09-19 155409" src="https://github.com/user-attachments/assets/5fc2d222-1032-4dbb-816c-a78b8ad06f6d" />
 
 
 The dashboard includes:
