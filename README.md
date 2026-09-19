@@ -32,7 +32,8 @@ This project simulates a real analytics workflow: extracting messy transactional
 
 ## 📸 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard]([Uploading image.png…])
+
 
 The dashboard includes:
 - **KPI Cards**: Total Revenue, Total Orders, Total Customers, Average Order Value, Units Sold
